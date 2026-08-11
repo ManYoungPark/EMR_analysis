@@ -63,11 +63,6 @@ RStudio Desktop은 Posit에서 제공합니다.
 
 https://posit.co/downloads/
 
-![Posit 다운로드 페이지](images/04_posit_rstudio.png)
-
-페이지에서 **RStudio Desktop**의 Open Source Edition을 선택합니다.
-
----
 
 ## RStudio 다운로드
 
